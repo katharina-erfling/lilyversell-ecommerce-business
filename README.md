@@ -1,3 +1,4 @@
+<img width="1920" height="600" alt="logo" src="https://github.com/user-attachments/assets/0456afe9-bf4d-4522-bab5-5120ff18eb42" />
 # 🐾 Lilyversell – Handmade Dog Accessories
 
 **Handgefertigtes Premium-Hundezubehör aus Bergisch Gladbach** – gegründet 2022, vollständig in Eigenregie aufgebaut und betrieben.
